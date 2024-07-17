@@ -67,41 +67,4 @@ Install my-project with npm
   npm run preview (To View Production Server )
 ```
 
-### Screen shots
-####  Admin Dashboard
-![1](https://user-images.githubusercontent.com/90745903/236361005-89f40e51-3aff-4e66-8aa2-941138a15316.png)
-
-#### Admin Add Product
-![image](https://github.com/Abdullah-moiz/nextjs-ecommerce/assets/90745903/8c2129fa-bbc4-4d03-b249-a9e4a26ba769)
-
-#### Admin Add Category
-![image](https://user-images.githubusercontent.com/90745903/236360988-8b7e6307-5365-4486-8404-b8ddaf1ab486.png)
-
-#### Admin View Category
-![image](https://github.com/Abdullah-moiz/nextjs-ecommerce/assets/90745903/79d3384f-0aed-4ca0-9bb6-c74a42042cfa)
-
-#### Admin View Product
-![image](https://github.com/Abdullah-moiz/nextjs-ecommerce/assets/90745903/f0a85e4a-891e-4c1f-86fe-206dedb6034c)
-
-#### Admin Search Product with category Name
-![image](https://github.com/Abdullah-moiz/nextjs-ecommerce/assets/90745903/76f09c2a-4c16-4784-afa0-5f424a42430f)
-
-#### Admin Search category with category Name
-![image](https://github.com/Abdullah-moiz/nextjs-ecommerce/assets/90745903/600bb84b-9401-48e9-90b8-44891f794b81)
-
-#### Pending Order List
-![image](https://github.com/Abdullah-moiz/nextjs-ecommerce/assets/90745903/66f07720-dc2f-4a05-98fc-d9c422665dc9)
-
-
-#### Completed Order List
-![image](https://github.com/Abdullah-moiz/nextjs-ecommerce/assets/90745903/278e33ae-b7bb-4cf2-8ed3-18e06d1f368c)
-
-
-
-#### Landing Page 
-
-![image](https://github.com/Abdullah-moiz/nextjs-ecommerce/assets/90745903/a4a21833-3f42-479f-99b8-1dba1b459f1b)
-
-
-
     
